@@ -1,0 +1,47 @@
+
+
+	h1 {
+					background:green;
+					color:white;
+					position:relative;
+					top:-75px;
+	}
+				
+fieldset {
+height:270px;
+
+  background-color:#eeeeee;
+}
+
+legend {
+  background-color:green;
+  color: white;
+  padding: 5px 5px;
+}
+
+input {
+
+margin:5px;}
+
+
+Button {background:green;
+					color:white;
+					
+					width:70px;}
+					
+		.searchBox{
+  background-image:url('https://postimg.cc/RNh4t7dy')
+  background-repeat:no-repeat;
+  
+}
+
+img{
+		position:relative;top:-30px;
+				right:10px;
+				width:100px; height:100px;
+}
+fieldset{
+				position:relative;
+				top:-70px;
+				
+}
